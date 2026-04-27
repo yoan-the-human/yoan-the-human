@@ -27,6 +27,7 @@
   💻 Obtaining the title <strong>Software engineer</strong> on Java path <i>(from Software University)</i><br />
 </ul>
 -->
+
 ### ✅ Completed projects:
 <!--<img align="right" width="50%" src="" />-->
 <ul>
@@ -39,6 +40,9 @@
         -->
         <li>
           🔬 Laboratory <i>(Check it <a href="https://bg-lab.bg" target="_blank">here</a>)</i><br />
+        </li>
+        <li>
+          👱🏻‍♀️ Dermatology <i>(Check it <a href="https://dr-cekova.com" target="_blank">here</a>)</i><br />
         </li>
         <li>
           🦷 Dentiststry <i>(Check it <a href="https://sclinic.bg" target="_blank">here</a>)</i><br />
@@ -133,7 +137,7 @@
 ### 🛠 Currently working on:
 
 <ul>
-  🏥 <strong>Website</strong> - dermatology
+  <strong></strong>
 </ul>
 
 <!--<img align="right" width="50%" src="" />-->
