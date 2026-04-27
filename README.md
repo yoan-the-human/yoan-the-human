@@ -1,11 +1,11 @@
-# Velyord
+# Yoan (the human)
 <img align="right" width="50%" src="https://i.imgur.com/NfqFBaI.jpg" />
 
 **`Digital Craftsman (with a passion for Automation)`**
 
 ### 💻 Website / Portfolio: 
 <ul>
-    👉 https://sites.google.com/view/ikratko-portfolio
+    👉 https://sites.google.com/view/yoan-the-human
 </ul>
 
 ### 🏭 Working at:
@@ -21,12 +21,12 @@
   🎓 <strong>Bachelor's degree</strong> in Informatics (2018 - 2022)<br><i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />      
   🏫 <strong>High school diploma</strong> in Mathematics and Informatics (2013 - 2018)<br><i>(from "Akademik Boyan Petkanchin" Haskovo with average score: 5.71)</i>
 </ul>
-
+<!--
 ### 🎯 Goals:
 <ul> 
   💻 Obtaining the title <strong>Software engineer</strong> on Java path <i>(from Software University)</i><br />
 </ul>
-
+-->
 ### ✅ Completed projects:
 <!--<img align="right" width="50%" src="" />-->
 <ul>
@@ -37,6 +37,9 @@
           🏥 Language High school <i>(Check it <a href="https://medsestriplovdiv.bg" target="_blank">here</a>)</i><br />
         </li>
         -->
+        <li>
+          🔬 Laboratory <i>(Check it <a href="https://bg-lab.bg" target="_blank">here</a>)</i><br />
+        </li>
         <li>
           🦷 Dentiststry <i>(Check it <a href="https://sclinic.bg" target="_blank">here</a>)</i><br />
         </li>  
@@ -52,10 +55,10 @@
       <summary>🏭 <strong>Projects for companies</strong></summary>
       <ul>
         <li>
-          📺 <strong><a href="https://sites.google.com/view/velyord/android-tv-app" target="_blank">Android</a>, <a href="https://sites.google.com/view/velyord/lg-webos-samsung-tizen-tv-apps" target="_blank">LG and Samsung</a> TV apps</strong> for streaming live tv <i>(See pictures)</i><br />
+          📺 <strong><a href="https://sites.google.com/view/yoan-the-human/android-tv-app" target="_blank">Android</a>, <a href="https://sites.google.com/view/yoan-the-human/lg-webos-samsung-tizen-tv-apps" target="_blank">LG and Samsung</a> TV apps</strong> for streaming live tv <i>(See pictures)</i><br />
         </li>
         <li>
-          📊 Dinamic charts used in local tv as live overlay during news <i>(See pictures <a href="https://sites.google.com/view/velyord/dinamic-charts" target="_blank">here</a>)</i><br />
+          📊 Dinamic charts used in local tv as live overlay during news <i>(See pictures <a href="https://sites.google.com/view/yoan-the-human/dinamic-charts" target="_blank">here</a>)</i><br />
         </li>
       </ul>
   </details>  
@@ -63,10 +66,10 @@
       <summary>🤖 <strong>Automation scripts</strong></summary>
       <ul>
         <li>
-          ⬇ for downloading data from a doctor software <i>(Check it <a href="https://sites.google.com/view/velyord/automation-scripts" target="_blank">here</a>)</i><br />
+          ⬇ for downloading data from a doctor software <i>(Check it <a href="https://sites.google.com/view/yoan-the-human/automation-scripts" target="_blank">here</a>)</i><br />
         </li>
         <li>
-          ⬆ for uploading pdfs to a wordpress website <i>(Check it <a href="https://sites.google.com/view/velyord/automation-scripts" target="_blank">here</a>)</i><br />
+          ⬆ for uploading pdfs to a wordpress website <i>(Check it <a href="https://sites.google.com/view/yoan-the-human/automation-scripts" target="_blank">here</a>)</i><br />
         </li>
       </ul>
   </details>
@@ -78,13 +81,13 @@
               <summary><strong>NVU</strong></summary>
               <ul>
                 <li>
-                    🤖 Grumpy and Annoyed Chatbot <i>(Check it <a href="https://sites.google.com/view/velyord/university-projects/grumpy-and-annoyed-chatbot" target="_blank">here</a>)</i>
+                    🤖 Grumpy and Annoyed Chatbot <i>(Check it <a href="https://sites.google.com/view/yoan-the-human/university-projects/grumpy-and-annoyed-chatbot" target="_blank">here</a>)</i>
                 </li>
                 <li>
-                    🔍 Item Finder with Computer Vision <i>(Check it <a href="https://sites.google.com/view/velyord/university-projects/item-finder-with-computer-vision" target="_blank">here</a>)</i>
+                    🔍 Item Finder with Computer Vision <i>(Check it <a href="https://sites.google.com/view/yoan-the-human/university-projects/item-finder-with-computer-vision" target="_blank">here</a>)</i>
                 </li>
                 <li>
-                    📈 Investing Decisions Maker <i>(Check it <a href="https://sites.google.com/view/velyord/university-projects/investing-decisions-maker" target="_blank">here</a>)</i>
+                    📈 Investing Decisions Maker <i>(Check it <a href="https://sites.google.com/view/yoan-the-human/university-projects/investing-decisions-maker" target="_blank">here</a>)</i>
                 </li>  
               </ul>
           </details>
@@ -121,7 +124,7 @@
       <summary>🦄 <strong>Other</strong></summary>
       <ul>
         <li>
-            🖌️ <strong>Digital photo art</strong> <i>(Check them <a href="https://sites.google.com/view/velyord/digital-photo-art" target="_blank">here</a>)</i>
+            🖌️ <strong>Digital photo art</strong> <i>(Check them <a href="https://sites.google.com/view/yoan-the-human/digital-photo-art" target="_blank">here</a>)</i>
         </li>
       </ul>
     </details>  
