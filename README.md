@@ -5,7 +5,7 @@
 
 ### 💻 Website / Portfolio: 
 <ul>
-    👉 https://sites.google.com/view/yoan-the-human
+    👉 https://yoanthehuman.cv
 </ul>
 
 ### 🏭 Working at:
